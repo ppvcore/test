@@ -1,4 +1,4 @@
-# Withdrawal Service
+# Withdrawal Service (backend-test-assignment)
 
 # Технологии
 - Go 1.25
