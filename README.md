@@ -50,6 +50,10 @@
   - баланс списан корректно
   - все остальные повторные запросы возвращают существующую запись
 
+# Запуск (Docker-Compose)
+
+.\scripts\run.ps1
+
 # Запуск (локально без Docker)
 
 psql -U postgres -c "CREATE DATABASE test;"<br>
