@@ -4,6 +4,7 @@
 - Go 1.25
 - PostgreSQL 18.1
 - Rest API
+- Docker-compose
 
 # БД
 
